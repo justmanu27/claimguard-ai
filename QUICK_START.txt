@@ -1,0 +1,7 @@
+# ClaimGuard AI Quick Start
+
+Windows: double-click `run_claimguard.bat`, keep the terminal open, then open http://127.0.0.1:5000.
+
+Manual: `python -m pip install -r requirements.txt` then `python app.py`.
+
+Do not open demo.html directly.
